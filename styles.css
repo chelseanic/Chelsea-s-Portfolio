@@ -1,0 +1,118 @@
+
+body{background-color: #2e2e2e}
+h1{color: #b2b3b1;
+font-family: monospace;
+    font-size: 44px;
+    text-align: center;
+}
+h2{color: #d5d6d4;
+font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+
+    
+}
+button{background-color: #757575;
+width: 260px;
+height: 60px;
+padding: 5px;
+margin-left: 40px;
+margin-right: 40px;
+font-family:monospace;
+font-size: 40px;
+}
+a{text-decoration: none;}
+h3{color: #81857e;
+font-family: monospace;
+    font-size: 16px;
+    text-align: center;
+}
+p{text-align: center;
+font-family: sans-serif;
+font-size: 25px;
+    color: black;
+    background-color: bisque;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 5px;
+}
+img {display: block;
+margin-left: auto;
+    margin-right: auto;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;}
+img {	display: block;
+		margin-left:	auto;
+		margin-right:	auto;
+		width:	300px;}
+.btn{border: none;
+    color: black;
+    background-color:#dbbefa; 
+    cursor: pointer;
+   font-size: 18px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 2px 2px;
+}
+
+
+
+  padding: 10px;
+  text-align: center;
+    font-size: 14px;
+  background-color: floralwhite;}
+* {box-sizing: border-box;}
+.responsive {
+  padding: 5px;
+  float:center;
+  width: %;}
+
+
+
+iframe{margin:60px;
+display: block;
+    align-content: space-between;
+    align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding:2px;}
+audio{display:block;
+    margin-left: auto;
+      margin-right: auto;
+      width:300px;} 
+
+
+
+
+iframe{margin:50px;
+display: block;
+    align-content: space-between;
+    align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding:2px;}
+audio{display:block;
+    margin-left: auto;
+      margin-right: auto;
+      width:300px;} 
+div.gallery {
+  border: 0px solid #CBC3E3;}
+div.gallery:hover {
+  border: 4px solid #b2b3b1;}
+div.gallery img {
+  width: 100%;
+  height: auto;}
+
+.responsive {
+  padding: 20 20px;
+  float: left;
+  width: 45%;}
+
+
+
