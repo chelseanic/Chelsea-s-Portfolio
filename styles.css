@@ -13,13 +13,13 @@ font-family: monospace;
     
 }
 button{background-color: #757575;
-width: 260px;
-height: 60px;
+width: 200px;
+height: 45px;
 padding: 5px;
 margin-left: 40px;
 margin-right: 40px;
 font-family:monospace;
-font-size: 40px;
+font-size: 26px;
 }
 a{text-decoration: none;}
 h3{color: #81857e;
